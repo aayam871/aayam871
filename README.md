@@ -3,7 +3,7 @@
 <h1 align="center">Hey there! I'm Aayam Regmi 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aayam871/aayam871/main/profile.png" width="400" height="400" style="border-radius: 50%;" alt="Aayam Regmi Profile Photo" />
+  <img src="https://raw.githubusercontent.com/aayam871/aayam871/main/profile.png" width="200" height="200" style="border-radius: 50%;" alt="Aayam Regmi Profile Photo" />
 </p>
 
 <p align="center">
