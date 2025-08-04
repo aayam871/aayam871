@@ -1,64 +1,92 @@
-
-
 <h1 align="center">Hey there! I'm Aayam Regmi 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aayam871/aayam871/main/profile.png" width="200" height="200" style="border-radius: 50%;" alt="Aayam Regmi Profile Photo" />
+  <img
+    src="https://raw.githubusercontent.com/aayam871/aayam871/main/profile.png"
+    width="200"
+    height="200"
+    style="border-radius: 50%; object-fit: cover;"
+    alt="Aayam Regmi Profile Photo"
+  />
 </p>
 
 <p align="center">
-  <b>Frontend Developer | React Enthusiast | Tech Explorer</b><br>
-  📍 Tilottama, Rupandehi, Nepal &nbsp;|&nbsp; ✉ aayamregmi81@gmail.com
+  <b>Frontend Developer | UI Enthusiast | Tech Explorer</b><br/>
+  📍 Tilottama, Rupandehi, Nepal &nbsp;|&nbsp; ✉ <a href="mailto:aayamregmi81@gmail.com">aayamregmi81@gmail.com</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💻 I build responsive, beautiful, and scalable frontend apps  
-- ⚛️ I love working with **React** and modern JS frameworks  
-- 🧠 Constant learner and problem solver  
-- 💬 Talk to me about UI/UX, JavaScript, or tech/startups  
-- ♟️ Love playing chess in my free time  
-- ⚡ Fun fact: I sometimes forget it's night when I'm coding
+- 💻 Crafting pixel-perfect, responsive, and scalable frontend apps  
+- ⚛️ Living and breathing **React**, **Next.js**, and **TypeScript**  
+- 🧠 Forever a curious learner and an undefeated problem slayer  
+- 💬 Ask me anything about UI/UX, JavaScript quirks, or startup hustle  
+- ♟️ Chess player by day, code ninja by night  
+- ⚡ Warning: May lose track of time and space when deep in code  
 
 ---
 
 ### 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,github,vscode,vercel,netlify,mongodb&theme=dark" />
-  <img src="https://img.shields.io/badge/-Zustand-000?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,redux,github,vscode,vercel,netlify,mongodb&theme=dark&perline=8" />
+
+</p>
+
+<style>
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+</style>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=aayam871&show_icons=true&theme=radical"
+    alt="Aayam Regmi GitHub Stats"
+  />
+  &nbsp;&nbsp;
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayam871&layout=compact&theme=radical"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ### 🧠 Soft Skills
 
-- 🧩 Problem Solving  
-- 💬 Communication  
-- 👥 Team Leadership  
-
----
+- 🧩 Ninja-level problem solving  
+- 💬 Fluent in developer-speak and meme language  
+- 👥 Leading teams like a boss (but with kindness)  
 
 ---
 
 ### 🔗 Let’s Connect
 
-- 🌐 [GitHub](https://github.com/aayam871)  
-- 💼 [LinkedIn](https://linkedin.com/in/aayamregmi)  
-- 📧 Email: aayamregmi81@gmail.com  
+- 🌐 [Portfolio (My Digital Playground)](https://iamportfolio.vercel.app/)  
+- 🐙 [GitHub (Where the Magic Happens)](https://github.com/aayam871)  
+- 💼 [LinkedIn (Professional Vibes)](https://linkedin.com/in/aayamregmi)  
+- 📧 <a href="mailto:aayamregmi81@gmail.com">Shoot me an Email</a>  
 
 ---
 
 ### 💡 Favorite Quote
 
-> “How rare it is that maintaining someone else’s code is akin to entering a beautifully designed building...  
-> More often, maintaining someone else’s code is like being thrown headlong into a big pile of slimy, smelly garbage.”  
-> — *Bill Venners*
+> “Maintaining someone else’s code is like entering a beautifully designed building...  
+> Just kidding. Most of the time, it’s like being thrown headfirst into a pile of slimy, smelly garbage.”  
+> — *Bill Venners* (and every dev ever)
 
 ---
 
 <p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" alt="Joke Generator" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" alt="Daily Dev Joke" />
 </p>
