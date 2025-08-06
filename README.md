@@ -1,14 +1,5 @@
-<h1 align="center">Hey there! I'm Aayam Regmi 👋</h1>
+<h1 align="center">Hey there! Namaste, I'm Aayam Regmi 👋</h1>
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/aayam871/aayam871/main/profile.png"
-    width="200"
-    height="200"
-    style="border-radius: 50%; object-fit: cover;"
-    alt="Aayam Regmi Profile Photo"
-  />
-</p>
 
 <p align="center">
   <b>Frontend Developer | UI Enthusiast | Tech Explorer</b><br/>
