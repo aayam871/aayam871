@@ -1,78 +1,49 @@
-<h1 align="center">Hey there! Namaste, I'm Aayam Regmi 👋</h1>
-
+# 👋 Hey, I’m **Aayam Regmi**
+### Fullstack Developer (React.js ✦ Next.js) | Learning Koa.js  
 
 <p align="center">
-  <b>Frontend Developer | UI Enthusiast | Tech Explorer</b><br/>
-  📍 Tilottama, Rupandehi, Nepal &nbsp;|&nbsp; ✉ <a href="mailto:aayamregmi81@gmail.com">aayamregmi81@gmail.com</a>
+  📍 Tilottama, Rupandehi, Nepal &nbsp;|&nbsp; ✉️ <a href="mailto:aayamregmi81@gmail.com">aayamregmi81@gmail.com</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-
-- 💻 Crafting pixel-perfect, responsive, and scalable frontend apps  
-- ⚛️ Living and breathing **React**, **Next.js**, and **TypeScript**  
-- 🧠 Forever a curious learner and an undefeated problem slayer  
-- 💬 Ask me anything about UI/UX, JavaScript quirks, or startup hustle  
-- ♟️ Chess player by day, code ninja by night  
-- ⚡ Warning: May lose track of time and space when deep in code  
+## 🚀 About Me
+- 🖥️ Building **scalable fullstack apps** with React & Next.js  
+- ⚡ Exploring backend with **Koa.js** (expanding beyond frontend)  
+- 🧠 Curious learner with a startup mindset — solving real problems, not just coding features  
+- 🎯 Aim: Become a **1% developer** who blends design sense, performance, and clean architecture  
 
 ---
 
-### 🚀 Tech Stack
-
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,typescript,redux,github,vscode,vercel,netlify,mongodb&theme=dark&perline=8" />
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,github,vscode,vercel,netlify,mongodb,nodejs&theme=dark&perline=8" />
 </p>
 
-
-
 ---
 
-### 📊 GitHub Stats
-
+## 📊 GitHub Stats
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=aayam871&show_icons=true&theme=radical"
-    alt="Aayam Regmi GitHub Stats"
-  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aayam871&show_icons=true&theme=radical" />
   &nbsp;&nbsp;
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayam871&layout=compact&theme=radical"
-    alt="Top Languages"
-  />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayam871&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 🧠 Soft Skills
-
-- 🧩 Ninja-level problem solving  
-- 💬 Fluent in developer-speak and meme language  
-- 👥 Leading teams like a boss (but with kindness)  
-
----
-
-### 🔗 Let’s Connect
-
-- 🌐 [Portfolio (My Digital Playground)](https://iamportfolio.vercel.app/)  
-- 🐙 [GitHub (Where the Magic Happens)](https://github.com/aayam871)  
-- 💼 [LinkedIn (Professional Vibes)](https://linkedin.com/in/aayamregmi)  
-- 📧 <a href="mailto:aayamregmi81@gmail.com">Shoot me an Email</a>  
+## 🌱 Currently
+- Leveling up from **frontend** → **fullstack**  
+- Building projects with **Next.js + Koa.js** combo  
+- Focusing on **real-world apps** (auth, APIs, scalable architecture)  
 
 ---
 
-### 💡 Favorite Quote
-
-> “Maintaining someone else’s code is like entering a beautifully designed building...  
-> Just kidding. Most of the time, it’s like being thrown headfirst into a pile of slimy, smelly garbage.”  
-> — *Bill Venners* (and every dev ever)
+## 🔗 Let’s Connect
+- 🌐 [Portfolio](https://iamportfolio.vercel.app/)  
+- 🐙 [GitHub](https://github.com/aayam871)  
+- 💼 [LinkedIn](https://linkedin.com/in/aayamregmi)  
+- 📧 <a href="mailto:aayamregmi81@gmail.com">Email Me</a>  
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dark" alt="Daily Dev Joke" />
-</p>
+<p align="center">“Code should be scalable like systems, but feel personal like art.”</p>
